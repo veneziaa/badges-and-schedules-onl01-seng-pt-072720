@@ -5,4 +5,5 @@ end
 def batch_badge_creator(attendees)
  attendees.collect do | |
    badge_maker (name)
+ end 
  
