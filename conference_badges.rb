@@ -6,3 +6,5 @@ def badge_maker(name)
  batch_badge_creator(["Johnny"])
  
  assign_rooms(attendees)
+ 
+ assign_rooms(["Steve"])
